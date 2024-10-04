@@ -13,7 +13,7 @@ For example, there is a state called “JeffH_ISE2018_EN” and a state called �
 
 <img width="983" alt="image" src="https://github.com/user-attachments/assets/bfcf3a07-a1a1-49b6-a240-4b2620ea2d65">
 
-To load the relevant .srt file for the state “JeffH_ISE2018_EN”, there should be a .srt subtitle file named “JeffH_ISE2018_EN.srt” added to the presentation as an auxiliary file. For the state “JeffH_ISE2018_FR” there should also be a .srt subtitle file named “JeffH_ISE2018_FR.srt” also loaded as an auxiliary. New .srt subitle files can be added via "Presentation Settings" > "Support Content" > "Files" > "+" 
+To load the relevant .srt file for the state “JeffH_ISE2018_EN”, there should be a .srt subtitle file named “JeffH_ISE2018_EN.srt” added to the presentation as an auxiliary file. For the state “JeffH_ISE2018_FR” there should also be a .srt subtitle file named “JeffH_ISE2018_FR.srt” also loaded as an auxiliary file. New .srt subtitle files can be added via "Presentation Settings" > "Support Content" > "Files" > "+" 
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/ce092d8c-c4a5-4615-bf1e-bfe8b33a9238">
 
