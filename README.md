@@ -17,7 +17,7 @@ To load the relevant .srt file for the state “JeffH_ISE2018_EN”, there shoul
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/ce092d8c-c4a5-4615-bf1e-bfe8b33a9238">
 
-This presentation also uses a plugin which was added via "Presentation Settings" > "Support Content" > "Script plugin" > "subtitles_widget.brs" . Please make sure that the plugin name is "srtSub". 
+This presentation also uses a plugin which was added via "Presentation Settings" > "Support Content" > "Script plugin" > "subtitles_widget.brs" . Please make sure that the Script plugin name is "srtSub". The original plugin filename is "subtitles_widget.brs". 
 
 <img width="384" alt="image" src="https://github.com/user-attachments/assets/d2414895-4135-4f26-94b9-b56a70192d3a">
 
